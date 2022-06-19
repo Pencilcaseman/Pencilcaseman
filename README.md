@@ -1,4 +1,4 @@
-[![My Website](https://img.shields.io/badge/My%20Website-tobydavis.dev-blue)](https://www.tobydavis.dev)
+[![My Website](https://img.shields.io/badge/My%20Website-tobydavis.dev-blue)](https://tobydavis.dev/)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pencilcaseman&show_icons=true&theme=radical)](https://github.com/Pencilcaseman)
 
