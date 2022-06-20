@@ -11,5 +11,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pencilcaseman&theme=radical&style=compact&hide=JavaScript,HTML,CSS,Roff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=3" />
   </a>
 <br><br>
-
-[![My Website](https://img.shields.io/badge/My%20Website-tobydavis.dev-blue)](https://tobydavis.dev/)
