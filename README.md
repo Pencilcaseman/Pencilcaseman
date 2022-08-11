@@ -2,8 +2,8 @@
 <a href="https://github.com/LibRapid/librapid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pencilcaseman&repo=librapid&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/Pencilcaseman/PseudoScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pencilcaseman&repo=PseudoScript&theme=radical&hide_border=true" />
+<a href="https://github.com/Pencilcaseman/SymboMath">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pencilcaseman&repo=SymboMath&theme=radical&hide_border=true" />
 </a>
 <br><br>
 <a href="https://github.com/Pencilcaseman">
