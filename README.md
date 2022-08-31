@@ -12,3 +12,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pencilcaseman&theme=radical&style=compact&hide=JavaScript,HTML,CSS,Roff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=3" />
   </a>
 <br><br>
+
+## Join my Discord Server :)
+It's a coding-related server, but there are cannels to chat about whatever you like!
+
+[![LibRapid Discord Server](https://badgen.net/discord/members/cGxTFTgCAC)](https://discord.gg/cGxTFTgCAC)
