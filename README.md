@@ -14,6 +14,6 @@
 <br><br>
 
 ## Join my Discord Server :)
-It's a coding-related server, but there are cannels to chat about whatever you like!
+It's a coding-related server, but there are channels to chat about whatever you like!
 
 [![LibRapid Discord Server](https://badgen.net/discord/members/cGxTFTgCAC)](https://discord.gg/cGxTFTgCAC)
