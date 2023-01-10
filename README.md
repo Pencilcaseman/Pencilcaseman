@@ -20,6 +20,6 @@
 <br/>
 <br/>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=Pencilcaseman&theme=neon-dark&hide_border=true" href="https://github.com/Pencilcaseman">
 </div>
