@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jira+Code&weight=900&size=35&duration=3000&pause=2000&color=0CF6F7&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Lead+Developer+of+LibRapid;Self-Taught+Open+Source+Developer;Machine+Learning+Enthusiast)](https://github.com/Pencilcaseman)
 
-<div>
+<div style="display: flex; justify-content: center;">
   <img align="center" src="https://img.shields.io/badge/CLion-159977?style=for-the-badge&logo=clion&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/PyCharm-77B324.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/WebStorm-247AB3.svg?&style=for-the-badge&logo=WebStorm&logoColor=white"/>
@@ -20,6 +20,6 @@
 <br/>
 <br/>
 
-<div>
+<div style="display: flex; justify-content: center;">
   <img align="center" src="https://streak-stats.demolab.com?user=Pencilcaseman&theme=neon-dark&hide_border=true" href="https://github.com/Pencilcaseman">
 </div>
