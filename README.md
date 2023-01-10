@@ -1,17 +1,4 @@
 ![](https://hit.yhype.me/github/profile?user_id=52111185)
-<a href="https://github.com/LibRapid/librapid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pencilcaseman&repo=librapid&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Pencilcaseman/SymboMath">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pencilcaseman&repo=SymboMath&theme=radical&hide_border=true" />
-</a>
-<br><br>
-<a href="https://github.com/Pencilcaseman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pencilcaseman&orgs=LibRapid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-</a><a href="https://github.com/Pencilcaseman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pencilcaseman&theme=radical&style=compact&hide=JavaScript,HTML,CSS,Roff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=3" />
-  </a>
-<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jira+Code&weight=900&size=35&duration=3000&pause=2000&color=0CF6F7&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Lead+Developer+of+LibRapid;Self-Taught+Open+Source+Developer;Machine+Learning+Enthusiast)](https://github.com/Pencilcaseman)
 
@@ -33,4 +20,6 @@
 <br/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pencilcaseman&theme=neon-dark&hide_border=true)](https://github.com/Pencilcaseman)
+<div>
+  <img align="center" src="https://streak-stats.demolab.com?user=Pencilcaseman&theme=neon-dark&hide_border=true" href="https://github.com/Pencilcaseman">
+</div>
