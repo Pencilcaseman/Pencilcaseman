@@ -34,7 +34,7 @@
 <br>
 
 
-<div align="center">
+<div align="center" width="500">
 <img src="https://github.com/Pencilcaseman/Pencilcaseman/blob/master/Files/Images/text/My%20Best%20Projects.png">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LibRapid&repo=librapid&theme=codeSTACKr" href="https://github.com/Pencilcaseman">
