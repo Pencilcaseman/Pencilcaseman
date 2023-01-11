@@ -30,7 +30,7 @@
     <br>
     <br>
     <br>
-    <img styles=".noclickimg{pointer-events:none;cursor:default;}" class="noclickimg" width="450" src="https://github.com/Pencilcaseman/Pencilcaseman/blob/master/Files/Images/text/My%20Best%20Projects.png">
+    <a href="https://github.com/Pencilcaseman?tab=repositories"><img width="450" src="https://github.com/Pencilcaseman/Pencilcaseman/blob/master/Files/Images/text/My%20Best%20Projects.png"></a>
     <div styles=".row{flex:33.33%;padding:5px;} .column{display:flex;}" class="row">
         <a class="column" href="https://github.com/LibRapid/librapid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LibRapid&repo=librapid&theme=codeSTACKr" alt="librapid"></a>
         <a class="column" href="https://github.com/Pencilcaseman/SymboMath"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=SymboMath&theme=codeSTACKr" alt="SymboMath"></a>
