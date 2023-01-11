@@ -25,11 +25,8 @@
 <br>
 <br>
 
-<p styles="color:#red;">My Projects</p>
-
+# My Projects
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Pencilcaseman&theme=neon-dark&hide_border=true" href="https://github.com/Pencilcaseman">
-    <br>
     <br>
     <br>
     <a href="https://github.com/Pencilcaseman?tab=repositories"><img width="450" src="https://github.com/Pencilcaseman/Pencilcaseman/blob/master/Files/Images/text/My%20Best%20Projects.png"></a>
