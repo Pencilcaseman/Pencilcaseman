@@ -12,15 +12,13 @@
     <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Microsoft Visual Studio"></a>
     <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Obsidian.md"></a>
     <a href="https://www.vmware.com/uk.html"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware"></a>
-
-<br>
-<br>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
+    <br>
+    <br>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
 
 </div>
 
@@ -28,14 +26,15 @@
 <br>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Pencilcaseman&theme=neon-dark&hide_border=true" href="https://github.com/Pencilcaseman">
-</div>
-
-<br>
-
-
-<div align="center" width="500">
-<img src="https://github.com/Pencilcaseman/Pencilcaseman/blob/master/Files/Images/text/My%20Best%20Projects.png">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LibRapid&repo=librapid&theme=codeSTACKr" href="https://github.com/Pencilcaseman">
+    <img src="https://streak-stats.demolab.com?user=Pencilcaseman&theme=neon-dark&hide_border=true" href="https://github.com/Pencilcaseman">
+    <br>
+    <img width="500" src="https://github.com/Pencilcaseman/Pencilcaseman/blob/master/Files/Images/text/My%20Best%20Projects.png">
+    <div styles=".row{flex:33.33%;padding:5px;} .column{display:flex;}" class="row">
+        <a class="column" href="https://github.com/LibRapid/librapid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LibRapid&repo=librapid&theme=codeSTACKr" alt="librapid"></a>
+        <a class="column" href="https://github.com/Pencilcaseman/SymboMath"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=SymboMath&theme=codeSTACKr" alt="SymboMath"></a>
+        <a class="column" href="https://github.com/Pencilcaseman/cinderbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=cinderbox&theme=codeSTACKr" alt="cinderbox"></a>
+        <a class="column" href="https://github.com/Pencilcaseman/SymboMathPaper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=SymboMathPaper&theme=codeSTACKr" alt="SymboMathPaper"></a>
+        <a class="column" href="https://github.com/Pencilcaseman/codeblock-runner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=codeblock-runner&theme=codeSTACKr" alt="codeblock-runner"></a>
+        <a class="column" href="https://github.com/Pencilcaseman/StudentRobotics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=StudentRobotics&theme=codeSTACKr" alt="StudentRobotics"></a>
+    </div>
 </div>
