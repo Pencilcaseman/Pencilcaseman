@@ -30,7 +30,7 @@
 # My Projects
 <div align="center">
     <div styles=".row{flex:33.33%;padding:5px;} .column{display:flex;}" class="row">
-        <a class="column" href="https://github.com/Pencilcaseman/tense"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0encilcaseman&repo=tensr&theme=codeSTACKr" alt="tensr"></a>
+        <a class="column" href="https://github.com/Pencilcaseman/tensr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=tensr&theme=codeSTACKr" alt="tensr"></a>
         <a class="column" href="https://github.com/LibRapid/librapid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LibRapid&repo=librapid&theme=codeSTACKr" alt="librapid"></a>
         <a class="column" href="https://github.com/Pencilcaseman/SymboMath"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=SymboMath&theme=codeSTACKr" alt="SymboMath"></a>
         <a class="column" href="https://github.com/Pencilcaseman/cinderbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=cinderbox&theme=codeSTACKr" alt="cinderbox"></a>
