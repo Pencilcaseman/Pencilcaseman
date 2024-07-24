@@ -1,7 +1,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=52111185)
 
 <div align="center">
-    <img alt="animated-svg" src="https://readme-typing-svg.demolab.com?font=Jira+Code&weight=900&size=35&duration=2000&pause=10000&color=0CF6F7&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Lead+Developer+of+LibRapid;Self-Taught+Open+Source+Developer;Making+Cool+Things" href="https://github.com/Pencilcaseman">
+    <img alt="animated-svg" src="https://readme-typing-svg.demolab.com?font=Jira+Code&weight=900&size=35&duration=2000&pause=10000&color=0CF6F7&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Lead+Developer+of+Tensr;Self-Taught+Open+Source+Developer;Making+Cool+Things" href="https://github.com/Pencilcaseman">
 </div>
 
 <div align="center">
