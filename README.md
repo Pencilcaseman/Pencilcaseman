@@ -1,33 +1,36 @@
-<!-- <div align="center"> -->
-<!--     <img alt="animated-svg" src="https://readme-typing-svg.demolab.com?font=Jira+Code&weight=900&size=35&duration=2000&pause=10000&color=0CF6F7&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Lead+Developer+of+Tensr;Self-Taught+Open+Source+Developer;Making+Cool+Things" href="https://github.com/Pencilcaseman"> -->
-<!-- </div> -->
-
-
 <div align="center">
     <a href="https://neovim.io/"><img src="https://img.shields.io/badge/neovim-159977?style=for-the-badge&logo=neovim&logoColor=white" alt="JetBrains CLion"></a>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Python-FFDC52?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Rust-F44D16?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
+    <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/python-FFDC52?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/rust-F44D16?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust">
+    <img src="https://img.shields.io/badge/latex-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
+    <img src="https://img.shields.io/badge/typst-47A141?style=for-the-badge&logo=Typst&logoColor=white" alt="Typst">
 </div>
 
 # Toby Davis
 
-<br>
-<br>
+I am interested in high-performance computing, low-level engineering and systems
+programming.
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pencilcaseman&show_icons=true&theme=codeSTACKr&count_private=true&orgs=LibRapid" href="https://github.com/Pencilcaseman" alt="GitHub Stats"/></div>
+I enjoy solving problems and writing fast code.
 
-# My Projects
-<div align="center">
-    <div styles=".row{flex:33.33%;padding:5px;} .column{display:flex;}" class="row">
-        <a class="column" href="https://github.com/Pencilcaseman/tensr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=tensr&theme=codeSTACKr" alt="tensr"></a>
-        <a class="column" href="https://github.com/LibRapid/librapid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LibRapid&repo=librapid&theme=codeSTACKr" alt="librapid"></a>
-        <a class="column" href="https://github.com/Pencilcaseman/SymboMath"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=SymboMath&theme=codeSTACKr" alt="SymboMath"></a>
-        <a class="column" href="https://github.com/Pencilcaseman/cinderbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=cinderbox&theme=codeSTACKr" alt="cinderbox"></a>
-        <a class="column" href="https://github.com/Pencilcaseman/SymboMathPaper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=SymboMathPaper&theme=codeSTACKr" alt="SymboMathPaper"></a>
-        <a class="column" href="https://github.com/Pencilcaseman/codeblock-runner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=codeblock-runner&theme=codeSTACKr" alt="codeblock-runner"></a>
-        <a class="column" href="https://github.com/Pencilcaseman/surge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pencilcaseman&repo=surge&theme=codeSTACKr" alt="surge"></a>
-    </div>
-</div>
+## Some Projects
+
+- [Advent of Code](https://adventofcode.com/) 2025 in under 800us:
+  [Pencilcaseman/AdventOfCode](https://github.com/Pencilcaseman/AdventOfCode)
+- A highly optimized, lazily evaluated, multi-backend C++ linear algebra
+  library: [LibRapid/librapid](https://github.com/LibRapid/librapid)
+- Calculate pi to billions of digits:
+  [Pencilcaseman/iron_pi](https://github.com/Pencilcaseman/iron_pi)
+- A (simple) symbolic math library in C++:
+  [Pencilcaseman/SymboMath](https://github.com/Pencilcaseman/SymboMath/tree/master)
+- My NeoVim configuration:
+  [Pencilcaseman/nvim-config](https://github.com/Pencilcaseman/nvim-config/)
+
+## Some Supercomputing Competitions
+
+- CIUK
+- IndySCC
+- ISC
+- SCC
