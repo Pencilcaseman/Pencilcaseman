@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/python-FFDC52?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/rust-F44D16?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust">
     <img src="https://img.shields.io/badge/latex-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
-    <img src="https://img.shields.io/badge/typst-47A141?style=for-the-badge&logo=Typst&logoColor=white" alt="Typst">
+    <img src="https://img.shields.io/badge/typst-239DAD?style=for-the-badge&logo=Typst&logoColor=white" alt="Typst">
 </div>
 
 # Toby Davis
