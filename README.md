@@ -10,27 +10,39 @@
 
 # Toby Davis
 
+> [!IMPORTANT]
+> Most of my work has moved to [git.tobydavis.dev](https://git.tobydavis.dev),
+> so check that out to see my latest stuff. You may also want to check out
+> [tobydavis.dev](https://tobydavis.dev) for blog posts and project pages.
+
 I am interested in high-performance computing, low-level engineering and systems
 programming.
 
-I enjoy solving problems and writing fast code.
+I enjoy solving problems and writing (very) fast code.
 
 ## Some Projects
 
 - [Advent of Code](https://adventofcode.com/) 2025 in under 800us:
-  [Pencilcaseman/AdventOfCode](https://github.com/Pencilcaseman/AdventOfCode)
+  [AdventOfCode](https://git.tobydavis.dev/tobydavis/AdventOfCode)
+  ~~[Pencilcaseman/AdventOfCode](https://github.com/Pencilcaseman/AdventOfCode)~~
 - A highly optimized, lazily evaluated, multi-backend C++ linear algebra
-  library: [LibRapid/librapid](https://github.com/LibRapid/librapid)
+  library: [LibRapid](https://git.tobydavis.dev/librapid/librapid)
+  ~~[LibRapid/librapid](https://github.com/LibRapid/librapid)~~
 - Calculate pi to billions of digits:
-  [Pencilcaseman/iron_pi](https://github.com/Pencilcaseman/iron_pi)
+  [Iron Pi](https://git.tobydavis.dev/tobydavis/iron_pi)
+  ~~[Pencilcaseman/iron_pi](https://github.com/Pencilcaseman/iron_pi)~~
+- My Neovim configuration:
+  [nvim-config](https://git.tobydavis.dev/tobydavis/nvim-config)
+  ~~[Pencilcaseman/nvim-config](https://github.com/Pencilcaseman/nvim-config/)~~
 - A (simple) symbolic math library in C++:
-  [Pencilcaseman/SymboMath](https://github.com/Pencilcaseman/SymboMath/tree/master)
-- My NeoVim configuration:
-  [Pencilcaseman/nvim-config](https://github.com/Pencilcaseman/nvim-config/)
+  [SymboMath](https://git.tobydavis.dev/tobydavis/SymboMath)
+  ~~[Pencilcaseman/SymboMath](https://github.com/Pencilcaseman/SymboMath/tree/master)~~
 
-## Some Supercomputing Competitions
+## Supercomputing Competitions
 
-- CIUK
-- IndySCC
-- ISC
-- SCC
+I've bee fortunate enough to take part in these supercomputing competitions:
+
+- [SCC25](https://sc25.supercomputing.org/students/student-cluster-competition/)
+- [ISC25](https://2025.isc-hpc.com/program/student-cluster-competition/)
+- [IndySCC24](https://sc24.supercomputing.org/students/indyscc/) (WE WON!)
+- [CIUK](https://www.sc.stfc.ac.uk/ciuk2024/)
