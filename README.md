@@ -22,7 +22,7 @@ I enjoy solving problems and writing (very) fast code.
 
 ## Some Projects
 
-- [Advent of Code](https://adventofcode.com/) 2025 in under 800us:
+- [Advent of Code](https://adventofcode.com/) 2025 in ~720us:
   [AdventOfCode](https://git.tobydavis.dev/tobydavis/AdventOfCode)
   ~~[Pencilcaseman/AdventOfCode](https://github.com/Pencilcaseman/AdventOfCode)~~
 - A highly optimized, lazily evaluated, multi-backend C++ linear algebra
